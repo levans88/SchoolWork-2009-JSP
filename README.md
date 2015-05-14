@@ -21,7 +21,7 @@ This is a small JavaServer Pages class project from 2009. Restoration/setup requ
 -Set a root password  
 -Execute  
 
-###Test MySQL:
+###Test MySQL
 mysqlshow -u root -p  
 If you can see a listing of the databases that come with MySQL, installation is complete.  
 
